@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🤖 Firmware Development Engineer with experience in programming 16 and 32-bit microcontrollers.
+
 💻 Passionate about research and technological innovation, with skills in collaboration within multidisciplinary teams.
+
 🔬 Currently expanding my knowledge in new technologies to find diverse solutions to the problems I encounter.
+
 💪 I consider myself a self-taught and perseverant person, so frustration with problems is not an impediment to achieving the goals set in projects.
 
 
