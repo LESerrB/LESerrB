@@ -17,6 +17,6 @@
 | **Documentation Tools** | [![My Skills](https://skillicons.dev/icons?i=latex&perline=2)](https://skillicons.dev) |
 | **Simulation Software** | [![My Skills](https://skillicons.dev/icons?i=matlab&perline=2)](https://skillicons.dev) Proteus LabView|
 | **Version Control** | [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=6)](https://skillicons.dev) |
-| **Management Tools** | Jira |
 | **Embedded Platforms** | [![My Skills](https://skillicons.dev/icons?i=raspberrypi,docker,linux&perline=6)](https://skillicons.dev)Torizon
 | **Communication Protocols** | I2C, SPI, CAN, RS232, RS485, HL7 |
+| **Management Tools** | Jira |
