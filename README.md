@@ -1,10 +1,8 @@
-### Hi there 👋
+### Embedded Software Engineer | Firmware | Embedded Linux
 
-## Embedded Systems & Firmware Engineer | Specializing in Medical Technology
+I'm a Computer Engineer from UNAM specializing in embedded software, firmware development, and hardware/software integration.
 
-Engineer with a focus on modernizing embedded stacks and developing critical control systems. 
-Experience ranging from 8/32-bit microcontrollers to Embedded Linux environments.
-
+My experience includes modernizing embedded systems for biomedical applications, developing firmware for microcontrollers, and integrating hardware peripherals and communication interfaces. I work across microcontroller-based systems and Embedded Linux environments, with a focus on reliable control software, debugging, and technical documentation.
 ---
 
 ### 🛠️ Core Stack & Tools
